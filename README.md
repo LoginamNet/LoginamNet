@@ -8,6 +8,11 @@
 
 ## Contacts
 
+
+ [![Telegram icon](/telegram-color.svg)](https://t.me/LoginamNet)
+ [![Gmail icon](/gmail-color.svg)](mailto:loginamnet@gmail.com)
+ [![Discord icon](/discord-color.svg)](https://discordapp.com/users/loginamnet)
+
 ## Tech
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loginamnet&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
