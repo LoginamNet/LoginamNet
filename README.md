@@ -8,10 +8,12 @@
 
 ## Contacts
 
+<div>
+ <a href="https://t.me/LoginamNet"><img height="32" width="32" src="/telegram-color.svg" /></a>&nbsp;&nbsp;
+ <a href="mailto:loginamnet@gmail.com"><img height="32" width="32" src="/gmail-color.svg" /></a>&nbsp;&nbsp;
+ <a href="https://discordapp.com/users/loginamnet"><img height="32" width="32" src="/discord-color.svg" /></a>
+</div>
 
- [![Telegram icon](/telegram-color.svg)](https://t.me/LoginamNet)
- [![Gmail icon](/gmail-color.svg)](mailto:loginamnet@gmail.com)
- [![Discord icon](/discord-color.svg)](https://discordapp.com/users/loginamnet)
 
 ## Tech
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loginamnet&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
